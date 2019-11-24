@@ -1,0 +1,9 @@
+.blogPostContainer {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 4vw;
+}
+
+.blogPostContainer img {
+  margin: 0 auto;
+}
